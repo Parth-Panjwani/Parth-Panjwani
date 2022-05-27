@@ -6,9 +6,9 @@
 <!--
 **Parth-Panjwani/Parth-Panjwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-- 🔭 I’m currently working on DS Algo
-- 🌱 I’m currently learning Flutter
-- 👯 I'm challenging myself with 100DaysofCode challenge
+- 🔭 I’m currently looking forward to contribute at Open Source Organizations.
+- 🌱 I’m currently learning JavaScript.
+- 👯 I'm challenging myself with 100Days of JavaScript.
 - 📫 How to reach me: parthpanjwani29@gmail.com
 
 [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parth-Panjwani)](https://github.com/Parth-Panjwani/github-readme-stats)
