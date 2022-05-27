@@ -8,7 +8,7 @@
 --->
 - 🔭 I’m currently looking forward to contribute at Open Source Organizations.
 - 🌱 I’m currently learning JavaScript.
-- 👯 I'm challenging myself with 100Days of JavaScript.
+- 👯 I'm challenging myself with 30Days of JavaScript.
 - 📫 How to reach me: parthpanjwani29@gmail.com
 
 [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parth-Panjwani)](https://github.com/Parth-Panjwani/github-readme-stats)
