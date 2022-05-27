@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on DS Algo
 - 🌱 I’m currently learning Flutter
 - 👯 I'm challenging myself with 100DaysofCode challenge
-- 📫 How to reach me: parthpanjwani9@gmail.com
+- 📫 How to reach me: parthpanjwani29@gmail.com
 
 [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parth-Panjwani)](https://github.com/Parth-Panjwani/github-readme-stats)
 
