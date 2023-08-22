@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **parthpanjwani29@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zRFbDB5QmA_xYhVu7o3ltB_OvdZeIDcO/view?usp=sharing](https://drive.google.com/file/d/1zRFbDB5QmA_xYhVu7o3ltB_OvdZeIDcO/view?usp=sharing)
+- 📄 Know about me: [https://parthpanjwani.me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
