@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth Panjwani</h1>
 <h3 align="center">B.Tech CE student 🎓 | Intermediate UI/UX Designer 🎨 | Web Developer 💻| Flutter enthusiast 🚀 | Continuously Learning & Improving 🚧</h3>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Java, C++, JS, PHP, Flutter**
+- 💬 Ask me about **Java, C++, JS, PHP, Flutter, API, React JS**
 
 - 📫 How to reach me **parthpanjwani29@gmail.com**
 
