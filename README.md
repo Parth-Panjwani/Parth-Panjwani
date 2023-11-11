@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **parthpanjwani29@gmail.com**
 
-- 📄 Know about me: https://parthpanjwani.me
+- 📄 Know about me: [https://parth-panjwani.vercel.app/](https://parth-panjwani.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
